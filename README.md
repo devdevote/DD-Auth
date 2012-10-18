@@ -13,6 +13,7 @@ Y utilizando twitter boostrap como interfaz de usuario.
 
 Versiones
 =======
+
 - 0.0.1 Readme, travis.yml, ion_auth, postmark, error_notifier (con opción a postmark), fire_log
 
 
