@@ -42,6 +42,19 @@ $autoload['packages'] = array();
 
 /*
 | -------------------------------------------------------------------
+|  Auto-load Sparks
+| -------------------------------------------------------------------
+| Prototype:
+|
+|  $autoload['sparks'] = array('name/version');
+|
+*/
+
+$autoload['sparks'] = array('postmark/1.0.2');
+
+
+/*
+| -------------------------------------------------------------------
 |  Auto-load Libraries
 | -------------------------------------------------------------------
 | These are the classes located in the system/libraries folder
