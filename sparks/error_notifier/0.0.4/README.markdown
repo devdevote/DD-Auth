@@ -42,6 +42,11 @@ Then visit it with a browser to make sure it works, then setup a cron job on you
 
 
 ## Changes
+### 0.0.4.1
+* postmark integration
+* fix "Undefined variable: message sparks/error_notifier/0.0.4/libraries/error_notifier.php 175" taking out $message = "" of the conditional if (!empty($log_lines))
+
+
 ### 0.0.4
 * Added colorize option for coloring the mail
 * Added shorten_paths option for trimming base path from all errors since it's always the same anyway
