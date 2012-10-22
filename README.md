@@ -4,10 +4,10 @@ DD-Auth
 
 
 DD-Auth es una implementación basada en codeigniter integrando los siguentes sparks:
-- ion_auth
-- postmark
-- error_notifier (con opción a postmark)
-- fire_log
+- ion_auth (2.3.2)
+- postmark (1.0.2)
+- error_notifier (0.0.4)(con opción a postmark)
+- fire_log (0.8.2)
 
 Y utilizando twitter boostrap como interfaz de usuario.
 
