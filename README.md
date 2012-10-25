@@ -1,7 +1,5 @@
 DD-Auth
 =======
-[![Build Status](https://travis-ci.org/ramirors/DD-Auth.png)](https://travis-ci.org/ramirors/DD-Auth)
-
 
 DD-Auth es una implementación basada en codeigniter integrando los siguentes sparks:
 - ion_auth (2.3.2)
