@@ -65,7 +65,7 @@ $autoload['sparks'] = array('postmark/1.0.2');
 |	$autoload['libraries'] = array('database', 'session', 'xmlrpc');
 */
 
-$autoload['libraries'] = array();
+$autoload['libraries'] = array('database','session','email');
 
 
 /*
